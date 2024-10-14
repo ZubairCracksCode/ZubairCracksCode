@@ -7,9 +7,9 @@
 - 💬 Ask me about anything [here](https://github.com/ZubairCracksCode/ZubairCracksCode/issues)
 
 <code><img height="20" alt="python" src="https://img.icons8.com/?size=100&id=hZvpN3zV45Yf&format=png&color=000000"></code>
-<code><img height="20" alt="javascript" src="https://img.icons8.com/?size=100&id=hZvpN3zV45Yf&format=png&color=000000"></code>
+<code><img height="20" alt="javascript" src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000"></code>
 <code><img height="20" alt="machinelearning" src="https://img.icons8.com/?size=100&id=hZvpN3zV45Yf&format=png&color=000000"></code>
-<code><img height="20" alt="docker" src="https://img.icons8.com/?size=100&id=hZvpN3zV45Yf&format=png&color=000000"></code>
+<code><img height="20" alt="docker" src="https://img.icons8.com/?size=100&id=zFAYIdFZlGxP&format=png&color=000000"></code>
 <code><img height="20" alt="github" src="https://img.icons8.com/?size=100&id=hZvpN3zV45Yf&format=png&color=000000"></code>
 
 LLM &bull; Transformer &bull; Full Stack web development &bull; Vision &bull; IoT ecosystems &bull; Deployment
