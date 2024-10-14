@@ -1,63 +1,60 @@
-<p align="center"><a href="https://zubaircrackscode.github.io"><img height="250px" width="500px" alt="Hello, I'm Zubair. I do open source!" src="./assets/gh-readme-header-transparent.png" /></a></p>
+<p align="center">
+  <a href="https://zubaircrackscode.github.io">
+    <img height="250px" width="500px" alt="Hello, I'm Zubair. I do open source!" src="./assets/gh-readme-header-transparent.png" />
+  </a>
+</p>
 
+<p align="center">
+  <b>About me</b>
+</p>
 
-**About me**
+<p align="center">
+  - 💼 Machine-Learning Engineer at <a href="http://doer.com.bd/">DOER</a><br>
+  - 💬 Ask me about anything <a href="https://github.com/ZubairCracksCode/ZubairCracksCode/issues">here</a>
+</p>
 
-- 💼 Machine-Learning Engineer at [DOER](http://doer.com.bd/)
+<p align="center">
+  <code><img height="40" alt="python" src="https://img.icons8.com/?size=100&id=hZvpN3zV45Yf&format=png&color=000000"></code>
+  <code><img height="40" alt="javascript" src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000"></code>
+  <code><img height="40" alt="machinelearning" src="https://img.icons8.com/?size=100&id=66365&format=png&color=000000"></code>
+  <code><img height="40" alt="docker" src="https://img.icons8.com/?size=100&id=zFAYIdFZlGxP&format=png&color=000000"></code>
+  <code><img height="40" alt="github" src="https://img.icons8.com/?size=100&id=1kYzi9NIypqq&format=png&color=000000"></code>
+</p>
 
-- 💬 Ask me about anything [here](https://github.com/ZubairCracksCode/ZubairCracksCode/issues)
+<p align="center">
+  LLM &bull; Transformer &bull; Full Stack web development &bull; Vision &bull; IoT ecosystems &bull; Deployment
+</p>
 
-<code><img height="40" alt="python" src="https://img.icons8.com/?size=100&id=hZvpN3zV45Yf&format=png&color=000000"></code>
-<code><img height="40" alt="javascript" src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000"></code>
-<code><img height="40" alt="machinelearning" src="https://img.icons8.com/?size=100&id=66365&format=png&color=000000"></code>
-<code><img height="40" alt="docker" src="https://img.icons8.com/?size=100&id=zFAYIdFZlGxP&format=png&color=000000"></code>
-<code><img height="40" alt="github" src="https://img.icons8.com/?size=100&id=1kYzi9NIypqq&format=png&color=000000"></code>
+<br />
 
-LLM &bull; Transformer &bull; Full Stack web development &bull; Vision &bull; IoT ecosystems &bull; Deployment
-<br> </br>
-<!--
-[![Gmail Badge](https://img.shields.io/badge/-Mail%20Me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zubairazimmiazi@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zubair-azim-miazi/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/not_bot_c) [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Dependent-Setting-12/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ZubairAzimMiazi/)
--->
-<!--
-**ZubairAzimMiazi/ZubairAzimMiazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  - 🔭 I’m currently working on LLMs<br>
+  - 🌱 I’m currently learning MLOps<br>
+  - 👯 I’m looking to collaborate on businesses
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on LLMs
-- 🌱 I’m currently learning MLOps
-- 👯 I’m looking to collaborate on businesses
+<p align="center">
+  💬 Ask me about my career<br>
+  - 📫 How to reach me:<br>
   
-💬 Ask me about my career
-- 📫 How to reach me:
-<br> </br>
-[![Gmail Badge](https://img.shields.io/badge/-Mail%20Me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zubairazimmiazi@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zubair-azim-miazi/)
+  <a href="mailto:zubairazimmiazi@gmail.com">
+    <img src="https://img.shields.io/badge/-Mail%20Me-c14438?style=flat&logo=Gmail&logoColor=white" alt="Mail Me">
+  </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZubairAzimMiazi&theme=onedark&count_private=true&show_icons=true" width="420px" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairAzimMiazi&layout=compact&count_private=true&theme=onedark&count_private=true&show_icons=true" height="165px" width="375px" />
-</a>
+  <a href="https://www.linkedin.com/in/zubair-azim-miazi/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
--->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZubairAzimMiazi&theme=onedark&count_private=true&show_icons=true" width="420px" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairAzimMiazi&layout=compact&count_private=true&theme=onedark&count_private=true&show_icons=true" height="165px" width="375px" />
+  </a>
+</p>
 
 <br />
 <br />
