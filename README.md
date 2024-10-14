@@ -6,7 +6,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/ZubairCracksCode/ZubairCracksCode/issues)
 
-<code><img height="20" alt="javascript" src="https://icons8.com/icon/d5Xb8bhEoHv1/machine-learning"></code>
+<code><img height="20" alt="javascript" src="[https://icons8.com/icon/d5Xb8bhEoHv1/machine-learning](https://img.icons8.com/?size=100&id=Q9vlSiHIHIdC&format=png&color=000000)"></code>
 
 LLM &bull; Transformer &bull; Full Stack web development &bull; Vision &bull; IoT ecosystems &bull; Deployment
 <br> </br>
