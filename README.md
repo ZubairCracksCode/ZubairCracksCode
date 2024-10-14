@@ -1,5 +1,6 @@
 <p align="center"><a href="https://zubaircrackscode.github.io"><img height="250px" width="500px" alt="Hello, I'm Zubair. I do open source!" src="./assets/gh-readme-header-transparent.png" /></a></p>
 
+<p align="center">
 **About me**
 
 - 💼 Machine-Learning Engineer at [DOER](http://doer.com.bd/)
@@ -49,4 +50,4 @@ Here are some ideas to get you started:
 -->
 
 <br />
-<br />
+<br /></p>
