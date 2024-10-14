@@ -1,6 +1,6 @@
 <p align="center"><a href="https://zubaircrackscode.github.io"><img height="250px" width="500px" alt="Hello, I'm Zubair. I do open source!" src="./assets/gh-readme-header-transparent.png" /></a></p>
 
-<p align="center">
+
 **About me**
 
 - 💼 Machine-Learning Engineer at [DOER](http://doer.com.bd/)
@@ -32,6 +32,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on LLMs
+- 🌱 I’m currently learning MLOps
+- 👯 I’m looking to collaborate on businesses
+  
+💬 Ask me about my career
+- 📫 How to reach me:
+<br> </br>
+[![Gmail Badge](https://img.shields.io/badge/-Mail%20Me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zubairazimmiazi@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zubair-azim-miazi/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZubairAzimMiazi&theme=onedark&count_private=true&show_icons=true" width="420px" />
@@ -50,4 +59,4 @@ Here are some ideas to get you started:
 -->
 
 <br />
-<br /></p>
+<br />
