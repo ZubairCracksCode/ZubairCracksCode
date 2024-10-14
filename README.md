@@ -6,6 +6,8 @@
 
 - 💬 Ask me about anything [here](https://github.com/ZubairCracksCode/ZubairCracksCode/issues)
 
+<code><img height="20" alt="javascript" src="https://icons8.com/icon/d5Xb8bhEoHv1/machine-learning"></code>
+
 LLM &bull; Transformer &bull; Full Stack web development &bull; Vision &bull; IoT ecosystems &bull; Deployment
 <br> </br>
 [![Gmail Badge](https://img.shields.io/badge/-Mail%20Me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zubairazimmiazi@gmail.com) 
