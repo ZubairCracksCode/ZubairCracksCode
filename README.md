@@ -1,4 +1,4 @@
-<p align="center"><a href="https://zubaircrackscode.github.io"><img width="40%" alt="Hello, I'm Zubair. I do open source!" src="./assets/gh-readme-header-transparent.png" /></a></p>
+<p align="center"><a href="https://zubaircrackscode.github.io"><img height="20%" width="40%" alt="Hello, I'm Zubair. I do open source!" src="./assets/gh-readme-header-transparent.png" /></a></p>
 
 <br />
 
