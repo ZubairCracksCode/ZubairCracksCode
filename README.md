@@ -1,7 +1,5 @@
 <p align="center"><a href="https://zubaircrackscode.github.io"><img height="20%" width="250px" alt="Hello, I'm Zubair. I do open source!" src="./assets/gh-readme-header-transparent.png" /></a></p>
 
-<br />
-
 **About me**
 
 - 💼 Machine-Learning Engineer at [DOER](http://doer.com.bd/)
