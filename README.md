@@ -1,14 +1,23 @@
+<!--
 <p align="center">
   <a href="https://zubaircrackscode.github.io">
     <img height="250px" width="500px" alt="Hello, I'm Zubair. I do open source!" src="./assets/gh-readme-header-transparent.png" />
   </a>
 </p>
-<!--
+
 <p align="center">
   <b>About me</b>
 </p>
 -->
-<p align="center">
+# Hi there 👋
+
+## It's me, Zubair! 👨‍💻
+
+I'm Zubair, a **Machine Learning software developer** and Researcher who has versatile interest, working Globally.
+
+[![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZubairCracksCode&count_private=true&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>
    💼 Machine Learning Engineer at <a href="http://doer.com.bd/">DOER</a><br>
    💬 Ask me about anything <a href="https://github.com/ZubairCracksCode/ZubairCracksCode/issues">here</a>
 </p>
@@ -48,10 +57,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZubairAzimMiazi&theme=onedark&count_private=true&show_icons=true" width="420px" />
-  </a>
-
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairAzimMiazi&layout=compact&count_private=true&theme=onedark&count_private=true&show_icons=true" height="165px" width="375px" />
   </a>
