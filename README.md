@@ -14,9 +14,6 @@
 ## It's me, Zubair! 👨‍💻
 
 I'm Zubair, a **Machine Learning software developer** and Researcher who has versatile interest, working Globally.
-
-[![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZubairCracksCode&count_private=true&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <p>
    💼 Machine Learning Engineer at <a href="http://doer.com.bd/">DOER</a><br>
    💬 Ask me about anything <a href="https://github.com/ZubairCracksCode/ZubairCracksCode/issues">here</a>
